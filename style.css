@@ -30,3 +30,7 @@ p{
 	line-height:1.5em;
 	width:95%;
 }
+a{
+	text-decoration:none;
+	background-color:#333;
+}
